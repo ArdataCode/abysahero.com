@@ -1,0 +1,75 @@
+._align_center{
+  text-align: center;
+}
+.swal2-confirm{
+  font-size: 0.8em !important;
+}
+/* .note-editable{
+  background: brown;
+} */
+.img-fluid {
+  height: 90px !important;
+  object-fit: contain !important;
+}
+.home .small-box>.inner {
+  /* min-height: 160px; */
+}
+.home .inner p{
+  margin-top: 30px;
+}
+.div-add-dtl{
+  padding:1.25rem 1.25rem 0rem 1.25rem;font-size:18px;
+}
+._forminput{
+  background-color:silver;border-radius:4px;padding: 10px 5px 5px 5px;
+}
+nav ul li ul li a{
+  padding-left: 40px !important;
+} 
+
+nav ul li ul li i{
+  position: absolute !important;
+  margin-left: -30px !important;
+  margin-top: 5px !important;
+} 
+.btn-absolute{
+  position: absolute;
+  z-index: 999;
+}
+.filter-absolute{
+  width: 100%;
+}
+.swal2-title {
+  font-family: system-ui;
+}
+.swal2-styled.swal2-confirm {
+  font-family: system-ui;
+}
+/* MODAL SWET ALERT */
+.swal2-container{
+  font-family: cursive;
+}
+
+  .input-keterangan{
+    font-size:14px;
+    color:#6c757d;
+  }
+  .btn-add-absolute{
+    position:absolute;
+    z-index:1;
+  }
+  .btn-add-absolute-group{
+    margin-top: 10px;
+  }
+  .ket-bintang{
+      color:#787878; 
+      /* font-style: italic; */
+      font-weight: normal !important;
+  }
+  .textarea_{
+    height: 200px !important;
+  }
+
+  .select2-error .select2-container--default{
+    border: 1px solid #dc3545 !important;
+  }

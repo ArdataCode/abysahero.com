@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?d32482886533bb89c4327e71ebaed6d8") format("truetype"),
+url("./flaticon.woff?d32482886533bb89c4327e71ebaed6d8") format("woff"),
+url("./flaticon.woff2?d32482886533bb89c4327e71ebaed6d8") format("woff2"),
+url("./flaticon.eot?d32482886533bb89c4327e71ebaed6d8#iefix") format("embedded-opentype"),
+url("./flaticon.svg?d32482886533bb89c4327e71ebaed6d8#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-user:before {
+    content: "\f101";
+}
+.flaticon-magnifying-glass:before {
+    content: "\f102";
+}
+.flaticon-zoom:before {
+    content: "\f103";
+}
+.flaticon-loupe:before {
+    content: "\f104";
+}
+.flaticon-view:before {
+    content: "\f105";
+}
+.flaticon-eye:before {
+    content: "\f106";
+}
+.flaticon-visibility:before {
+    content: "\f107";
+}
+.flaticon-eye-1:before {
+    content: "\f108";
+}
+.flaticon-view-1:before {
+    content: "\f109";
+}
+.flaticon-shopping-cart:before {
+    content: "\f10a";
+}

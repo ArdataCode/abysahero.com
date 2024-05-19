@@ -1,0 +1,7 @@
+V3
+site key = 6LdESCEeAAAAAH1xXNgGVYe2KYocy-tWfc70Jef8
+secret key = 6LdESCEeAAAAAJitCCKwAeTTMoFq15OZj4vd-St1
+
+V2
+site key = 6LfZYyEeAAAAAEqu2uSE6O3AwWYMOhjmrTSxrfPu
+secret key = 6LfZYyEeAAAAAN6d_NOaUA3xUBZeYDD9l7UvjSrG
